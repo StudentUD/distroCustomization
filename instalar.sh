@@ -9,7 +9,7 @@ else
 sudo tee $aplicacion << 'EOF'
 usuario=${USER^^}
 echo "  /\\_/\\  Hola $usuario"
-echo ' ( o.o ) Bienvenid@ al Grupo GNU/Linux UD '
+echo ' ( o.o ) Bienvenid@ '
 echo '  > ^ < '
 
 #https://wiki.archlinux.org/index.php/proxy_settings
